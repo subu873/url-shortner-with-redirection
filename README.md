@@ -1,2 +1,5 @@
 
-Create Short URL by entering original url in input field and then click on submit then short url will appear and if you enter short url in input field then it will redirect to original url
+URL SHORTNER WITH REDIRECTION
+
+  1. Enter any url it will create shorten url with host Zyla       
+  2. If you type shorten url and then submit then it will redirect to original url format </h3>
